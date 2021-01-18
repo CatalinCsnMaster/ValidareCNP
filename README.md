@@ -1,2 +1,2 @@
 # ValidareCNP
-Program de validare CNP
+Program de validare CNP scris in PHP.
